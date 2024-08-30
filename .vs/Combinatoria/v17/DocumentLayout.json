@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E6C00576-BDF5-4B03-9F67-14A3DF95BBF9}|Combinatoria.csproj|c:\\users\\lpsol\\utn vj\\combinatoria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6C00576-BDF5-4B03-9F67-14A3DF95BBF9}|Combinatoria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C00576-BDF5-4B03-9F67-14A3DF95BBF9}|Combinatoria.csproj|c:\\users\\lpsol\\utn vj\\combinatoria\\formulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C00576-BDF5-4B03-9F67-14A3DF95BBF9}|Combinatoria.csproj|solutionrelative:formulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formulas.cs",
+              "DocumentMoniker": "C:\\Users\\lpsol\\UTN VJ\\Combinatoria\\Formulas.cs",
+              "RelativeDocumentMoniker": "Formulas.cs",
+              "ToolTip": "C:\\Users\\lpsol\\UTN VJ\\Combinatoria\\Formulas.cs",
+              "RelativeToolTip": "Formulas.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:33:36.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lpsol\\UTN VJ\\Combinatoria\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lpsol\\UTN VJ\\Combinatoria\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:29:11.209Z",
               "EditorCaption": ""
