@@ -47,7 +47,6 @@ namespace Combinatoria
 
         }
 
-
         public static void Permutacion()
         {
             Console.WriteLine("Ingrese el dato para permutacion con repeticion: ");
@@ -108,9 +107,9 @@ namespace Combinatoria
             Console.WriteLine("Escogidos de a: ");
             int escogidos = int.Parse(Console.ReadLine());
 
-            double variacionRepeticion = SpecialFunctions.Factorial(elementos) / SpecialFunctions.Factorial(elementos - escogidos);
+            double variacionRepeticion = Math.Pow(elementos, escogidos);
 
-            Console.WriteLine($"Variacion sin repetición para \"{elementos}\" elementos tomados de \"{escogidos}\" es \"{variacionRepeticion}\".");
+            Console.WriteLine($"Variacion con repetición para \"{elementos}\" elementos tomados de \"{escogidos}\" es \"{variacionRepeticion}\".");
         }
 
     }
