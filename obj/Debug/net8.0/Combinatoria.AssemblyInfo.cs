@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Combinatoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97cf9427a4435bb9f9810e104b55ae45e3ec8ccb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Combinatoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Combinatoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
